@@ -535,7 +535,6 @@ Scikit-Learn与TensorFlow机器学习实用指南
 
 
 ## 2. 建模工具
-
 - 数据处理及可视化：numpy/pandas/scipy/matplotlib/seaborn
 - 机器学习：scikit-learn/statsmodel/xgboost/lightGBM/imblearn/mlxtend
 - 深度学习：keras/TensorFlow/tflearn/caffe/Theano/Pylearn2/deeplearning4j/Mxnet/CNTK/torch/paddlepaddle
@@ -552,7 +551,6 @@ Scikit-Learn与TensorFlow机器学习实用指南
 
 
 ## 3. [数学统计](http://vdisk.weibo.com/s/yTkCz-lSt3Y8x)
-
 (A) 分析
  
 - 数分：
@@ -683,13 +681,13 @@ Scikit-Learn与TensorFlow机器学习实用指南
 (C) 人工智能
 
 - 数据挖掘\模式学习\统计学习\机器学习：
-  - <font color="#dd0000">《机器学习》，周志华，机器学习方法理论
-  - 《统计学习方法》，李航，统计学习理论性强
+  -   《机器学习》，周志华，机器学习方法理论
+  -   《统计学习方法》，李航，统计学习理论性强
   - 《数据挖掘 概念与技术》，Jiawei Han etc.，介绍数据挖掘基础理论
   - [机器学习（含笔记）， Ng](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
   - 《机器学习要领》，ng，机器学习使用指南
   - 《机器学习》，万门大学
-  - 《Python数据挖掘入门与实践》，Robert Layton，用sklearn库</font>
+  - 《Python数据挖掘入门与实践》，Robert Layton，用sklearn库
   - 《The Elements of Statistical Learning 》， Trevor Hastie etc.，统计学习方法理论
   - 《Pattern Recognition and Machine Learning》
   - 《Machine Learning: A Probabilistic Perspective》
@@ -711,12 +709,12 @@ Scikit-Learn与TensorFlow机器学习实用指南
   - 《Data Science for Business》
   - 《Agile Data Science》
 - 深度学习：
-  - <font color="#dd0000">《Deep learning》， Yoshua Bengio&Ian Goodfellow ，深度学习原理
+  - 《Deep learning》， Yoshua Bengio&Ian Goodfellow ，深度学习原理
   - 深度学习（含笔记）， Ng，
   - 《Tensorflow实战谷歌深度学习框架》
   - 《21个项目玩转深度学习：基于TensorFlow的实践详解》
   - 《Hands-On Machine Learning with Scikit-Learn and TensorFlow》
-  - 《百面机器学习》</font>
+  - 《百面机器学习》
   - 《深度学习基础教程》，ng，深度学习原理
   - 《深度学习ppt》
   - 《Neural networks and Deep Learning》
@@ -749,7 +747,6 @@ Scikit-Learn与TensorFlow机器学习实用指南
 AAAI， CVPR，COLT，ECCV， ICLR，ICCV， ICML，IJCAI，KDD，ICDM，NeurIPS，NIPS，
 
 ## 6. 网络
-
 博客园 CSDN 知乎 公众号 微博 博客 简书 搜狐科技 官方文档 github ：
 
 - [公众号](https://mp.weixin.qq.com/s/knphqoCrzCF806fKdX0p6Q)
@@ -783,7 +780,6 @@ AAAI， CVPR，COLT，ECCV， ICLR，ICCV， ICML，IJCAI，KDD，ICDM，NeurIPS
 
 
 ## 8. 读书计划
-
 - 2018.12.17～2018.12.23: 复习完成机器学习所有算法
 - 2019.08.12～2019.08.18: 学习操作系统知识、风控机器学习
 - 2019.08.19～2019.08.25: 学习操作系统知识、数据结构与算法(学习hive、机器学习面试题)
