@@ -12,7 +12,7 @@ Scikit-Learn与TensorFlow机器学习实用指南
 - 线性模型：
     线性回归，最小二乘，最小角回归LARS，拉索，岭，弹性网
     逐步向前，局部加权，多元自适应回归样条
-    保序
+    保序回归
     非线形回归，广义线性模型（对数线性回归），多项式回归
     huber回归
     非参数回归
@@ -679,18 +679,6 @@ Scikit-Learn与TensorFlow机器学习实用指南
 - c++:
 
 (C) 人工智能
-
-- 数据挖掘\模式学习\统计学习\机器学习：
-  -   《机器学习》，周志华，机器学习方法理论
-  -   《统计学习方法》，李航，统计学习理论性强
-  - 《数据挖掘 概念与技术》，Jiawei Han etc.，介绍数据挖掘基础理论
-  - [机器学习（含笔记）， Ng](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-  - 《机器学习要领》，ng，机器学习使用指南
-  - 《机器学习》，万门大学
-  - 《Python数据挖掘入门与实践》，Robert Layton，用sklearn库
-  - 《The Elements of Statistical Learning 》， Trevor Hastie etc.，统计学习方法理论
-  - 《Pattern Recognition and Machine Learning》
-  - 《Machine Learning: A Probabilistic Perspective》
   - 《Introduction to machine learning 2nd edition》
   - 《The Art and Science of Algorithms that Make Sense of Data》
   - 《统计学习基础(数据挖掘、推理与预测)》
@@ -700,23 +688,12 @@ Scikit-Learn与TensorFlow机器学习实用指南
   - 《Machine Learning》
   - 《Artificial Intelligence: A Modern Approach》
   - 《Machine Learning: An Algorithmic Perspective》
-  - 机器学习基石， NTU
-  - 机器学习技法，NTU
-  - 《机器学习实战》，Peter，机器学习代码（未用到sklearn库）
-  - 《集体智慧编程》
   - 《机器学习：实用案例解析（中文版，带完整书签）》陈开江
   - 《Data Science from Scratch》
   - 《Data Science for Business》
   - 《Agile Data Science》
-- 深度学习：
-  - 《Deep learning》， Yoshua Bengio&Ian Goodfellow ，深度学习原理
-  - 深度学习（含笔记）， Ng，
-  - 《Tensorflow实战谷歌深度学习框架》
-  - 《21个项目玩转深度学习：基于TensorFlow的实践详解》
-  - 《Hands-On Machine Learning with Scikit-Learn and TensorFlow》
-  - 《百面机器学习》
-  - 《深度学习基础教程》，ng，深度学习原理
-  - 《深度学习ppt》
+
+
   - 《Neural networks and Deep Learning》
   - 《动手深度学习》
   - 《Deep Learning with Python 》
