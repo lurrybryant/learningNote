@@ -1,5 +1,12 @@
 # https://km.sankuai.com/page/28102716
 ###############
+git checkout -b dev origin/dev
+git pull origin duxiangkun
+
+git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
+git fetch --all
+git pull --all
+
 # 初始设置
 git config user.name 'lurrybryant'
 git config --global user.name "lurrybryant"

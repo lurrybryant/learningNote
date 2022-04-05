@@ -734,26 +734,8 @@ AAAI， CVPR，COLT，ECCV， ICLR，ICCV， ICML，IJCAI，KDD，ICDM，NeurIPS
   - scikit-learn，官方文档，机器学习方法算法demo
 
 ## 7. 论文
-- GPCA: Generalized Principal Component Analysis
-- XGBoost: A Scalable Tree Boosting System， Tianqi Chen
 
-- FastXML: A fast, accurate and stable tree-classifier for extreme multi-label learning
 
-- LeNet-5：Gradient-Based Learning Applied to Document Recognition
-- GPU-NET：Deep Big Simple Neural Nets Excel on Hand- written Digit Recognition
-- AlexNet：ImageNet Classification with Deep Convolutional Neural Networks
-- OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
-- VGG：Very Deep Convolutional Networks for Large-Scale Image Recognition
-- NiN：Network In Network
-- GoogleNet与Inception：Going Deeper with Convolutions，An Analysis of Deep Neural Network Models for Practical Applications
-- Inception-v2：Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-- Inception-v3：Rethinking the Inception Architechture for Computer Vision
-- ResNet：Deep Residual Learning for Image Recognition，Residual Networks are Exponential Ensembles of Relatively Shallow Networks，Bridging the Gaps between Residual Learning, Recurrent Neural Networks and Visual Cortex
-- SqueezeNet： AlexNet-level accuracy with 50x fewer parameters 
-- ENet：A Deep Neural Network Architecture for Real-time semantic Segmentation
-- 模块分析：Systematic evaluation of CNN advances on the ImageNet
-- FractalNet：Ultra-Deep Neural Network without Residuals
-- 如何结合模块：Neural Networks with differentiable structure
 
 
 ## 8. 读书计划
